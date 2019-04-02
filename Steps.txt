@@ -1,0 +1,7 @@
+1. Anaconda
+2. Conda Forge
+3. OpenCV
+4. Numpy
+5. Pip
+6. Tessaract OCR
+7. PyTessaract
